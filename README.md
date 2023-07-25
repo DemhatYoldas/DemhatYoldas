@@ -1,5 +1,17 @@
 # 💫 About Me:
-                  Hi everyone 👋, my name is Demhat<br><br>- I am a Software Developer<br>- I am developing a project with .NET 6.0+JWT+CQRS<br>- 🌍 I live in Turkey<br>- 📫 How to reach me demhatyldas@gmail.com<br>- 👀 Take a look my repo
+                  Hi everyone 👋
+                  <br>
+                  my name is Demhat
+                  <br>
+                  - I am a Software Developer
+                  <br>
+                  - I am developing a project with .NET 6.0+JWT+CQRS
+                  <br>
+                  - 🌍 I live in Turkey
+                  <br>
+                  - 📫 How to reach me demhatyldas@gmail.com
+                  <br>
+                  - 👀 Take a look my repo
 
 
 ## 🌐 Socials:
