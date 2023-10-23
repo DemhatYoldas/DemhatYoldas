@@ -2,7 +2,7 @@
 <h1 align="center">Hi everyone 👋, my name is Demhat</h1>
 <h3 align="center">Jr. .Net Developer</h3>
 
-- I am developing a project with .NET 6.0+JWT+CQRS
+- I am developing projects with .NETCore / .Net MVC5 / API
 - 🌍 I live in Turkey
 - 📫 How to reach me **demhatyldas@gmail.com**
 - 👀 Take a look my repo
