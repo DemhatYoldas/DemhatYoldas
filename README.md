@@ -37,11 +37,3 @@
 
 ---
 
-<h3 align="center">📊 GitHub Shenanigans</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=demhatyldas&show_icons=true&theme=tokyonight" alt="Demhat's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=demhatyldas&theme=tokyonight" alt="Demhat's GitHub streak" />
-</p>
