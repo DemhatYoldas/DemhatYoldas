@@ -1,32 +1,32 @@
-<h1 align="center">👋 Hi, I'm Demhat</h1>
-<h3 align="center">Jr. .NET Developer</h3>
+<h1 align="center">🎉 Hey there! I'm Demhat 👋</h1>
+<h3 align="center">Aspiring .NET Wizard 🧙‍♂️</h3>
 
 <p align="center">
-  <strong>Passionate about building robust solutions using .NET technologies.</strong>
+  <strong>Turning coffee ☕ into code with .NET magic! 💻✨</strong>
 </p>
 
 ---
 
-- 🌱 **Currently Exploring:** .NET Core, MVC5, API Development
-- 🌍 **Location:** Turkey
-- 📫 **Contact Me:** [demhatyldas@gmail.com](mailto:demhatyldas@gmail.com)
-- 👀 **Check Out My Repos:** Explore my projects and see what I've been working on.
+- 🌱 **Learning & Growing:** Mastering .NET Core, MVC5, and API sorcery 🧪
+- 🌍 **From:** Turkey, where kebabs meet code 🥙➡️💻
+- 📫 **Hit Me Up:** [demhatyldas@gmail.com](mailto:demhatyldas@gmail.com) 💌
+- 👀 **Peek at My Work:** Dive into my repos and see what’s cooking! 🍲
 
 ---
 
-<h3 align="center">Connect with Me</h3>
+<h3 align="center">🤝 Let’s Connect</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/demhat-yolda%C5%9F-9a8804204/" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:demhatyldas@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">Technologies & Tools</h3>
+<h3 align="center">🛠️ My Toolbox</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
@@ -37,7 +37,11 @@
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">📊 GitHub Shenanigans</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=demhatyldas&show_icons=true&theme=default" alt="Demhat's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=demhatyldas&show_icons=true&theme=tokyonight" alt="Demhat's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=demhatyldas&theme=tokyonight" alt="Demhat's GitHub streak" />
 </p>
