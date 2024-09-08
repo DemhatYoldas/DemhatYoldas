@@ -5,12 +5,14 @@
   <strong>Turning coffee ☕ into code with .NET magic! 💻✨</strong>
 </p>
 
+---
 
 - 🌱 **Learning & Growing:** Mastering .NET Core, MVC5, and API sorcery 🧪
 - 🌍 **From:** Turkey, where kebabs meet code 🥙➡️💻
 - 📫 **Hit Me Up:** [demhatyldas@gmail.com](mailto:demhatyldas@gmail.com) 💌
 - 👀 **Peek at My Work:** Dive into my repos and see what’s cooking! 🍲
 
+---
 
 <h3 align="center">🤝 Let’s Connect</h3>
 <p align="center">
@@ -22,6 +24,7 @@
   </a>
 </p>
 
+---
 
 <h3 align="center">🛠️ My Toolbox</h3>
 <p align="center">
@@ -31,6 +34,4 @@
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
 </p>
-
----
 
