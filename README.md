@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello World, I'm Demhat</h1>
-<h3 align="center">Passionate Jr. .NET Developer from Turkey</h3>
+<h3 align="center">🚀 Passionate Jr. .NET Developer from Turkey</h3>
 
 - 🌱 I’m currently learning and expanding my skills in **.NET Core, MVC5, and API development**.
 - 🔭 I’m working on several exciting projects in the **.NET ecosystem**.
@@ -11,8 +11,15 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/demhat-yolda%C5%9F-9a8804204/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Demhat Yoldaş" /></a>
+<a href="https://www.linkedin.com/in/demhat-yolda%C5%9F-9a8804204/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Demhat Yoldaş" />
+</a>
+<a href="mailto:demhatyldas@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: demhatyldas@gmail.com" />
+</a>
 </p>
+
+---
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
@@ -31,4 +38,11 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> 
   </a>
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=demhatyldas&show_icons=true&theme=radical" alt="Demhat's GitHub stats" />
 </p>
