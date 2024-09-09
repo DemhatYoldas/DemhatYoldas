@@ -1,21 +1,21 @@
-<h1 align="center">Hi, I'm Demhat 👋</h1>
-<h3 align="center">.NET Developer & Problem Solver</h3>
+<h1 align="center">Hello, I'm Demhat 👋</h1>
+<h3 align="center">.NET Developer | Problem Solver</h3>
 
 <p align="center">
-  <em>Building efficient and scalable solutions with .NET, one line of code at a time.</em>
+  <em>Coding the future, one line at a time.</em>
 </p>
 
 ---
 
-- 🔭 **Currently Working On:** Developing dynamic .NET Core applications
-- 🌱 **Learning:** Advanced API techniques and system architecture patterns
-- 🎯 **Looking For:** Opportunities to contribute to innovative projects
+- 🔧 **Technologies I Work With:** .NET Core, MVC5, APIs, SQL Server, PostgreSQL
+- 🎯 **Focused On:** Building scalable and maintainable applications
+- 💬 **Ask Me About:** C#, .NET, and software architecture
 - 🌍 **Based In:** Turkey
-- 📫 **Reach Me At:** [demhatyldas@gmail.com](mailto:demhatyldas@gmail.com)
+- 📧 **Reach Me At:** [demhatyldas@gmail.com](mailto:demhatyldas@gmail.com)
 
 ---
 
-<h3 align="center">Let's Connect</h3>
+<h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/demhat-yolda%C5%9F-9a8804204/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -27,7 +27,7 @@
 
 ---
 
-<h3 align="center">Technologies & Tools</h3>
+<h3 align="center">🛠️ My Toolbox</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
@@ -38,32 +38,16 @@
 
 ---
 
-<h3 align="center">GitHub Overview</h3>
-<p align="center">
-  <a href="https://github.com/demhatyldas">
-    <img src="https://github-readme-stats.vercel.app/api?username=demhatyldas&hide=contribs,prs&count_private=true&show_icons=true&theme=react" alt="Demhat's GitHub stats" />
-  </a>
-  <a href="https://github.com/demhatyldas">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demhatyldas&layout=compact&theme=react" alt="Top Languages" />
-  </a>
-</p>
+<h3 align="center">📂 Featured Projects</h3>
+<ul>
+  <li><strong><a href="https://github.com/demhatyldas/project-1" target="_blank">Project 1:</a></strong> A description of your project that highlights its main features and technology stack.</li>
+  <li><strong><a href="https://github.com/demhatyldas/project-2" target="_blank">Project 2:</a></strong> Another project description, showcasing your skills and the technologies you used.</li>
+  <li><strong><a href="https://github.com/demhatyldas/project-3" target="_blank">Project 3:</a></strong> Describe a key project that demonstrates your expertise and problem-solving abilities.</li>
+</ul>
 
 ---
 
-<h3 align="center">Pinned Repositories</h3>
+<h3 align="center">🚀 Let's Collaborate</h3>
 <p align="center">
-  <a href="https://github.com/demhatyldas/repo-name-1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=demhatyldas&repo=repo-name-1&theme=react" alt="Repo 1" />
-  </a>
-  <a href="https://github.com/demhatyldas/repo-name-2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=demhatyldas&repo=repo-name-2&theme=react" alt="Repo 2" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/demhatyldas" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  If you're interested in working together, feel free to reach out or check out my repositories to see what I'm currently working on. Collaboration is key to growth, and I'm always open to new challenges!
 </p>
