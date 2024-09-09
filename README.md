@@ -38,16 +38,31 @@
 
 ---
 
-<h3 align="center">📂 Featured Projects</h3>
-<ul>
-  <li><strong><a href="https://github.com/demhatyldas/project-1" target="_blank">Project 1:</a></strong> A description of your project that highlights its main features and technology stack.</li>
-  <li><strong><a href="https://github.com/demhatyldas/project-2" target="_blank">Project 2:</a></strong> Another project description, showcasing your skills and the technologies you used.</li>
-  <li><strong><a href="https://github.com/demhatyldas/project-3" target="_blank">Project 3:</a></strong> Describe a key project that demonstrates your expertise and problem-solving abilities.</li>
-</ul>
+<h3 align="center">🚀 Featured Projects</h3>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/demhatyldas/project-1" target="_blank"><strong>Project 1</strong></a><br/>
+      <em>A brief description of what this project is about, highlighting the main technologies used.</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/demhatyldas/project-2" target="_blank"><strong>Project 2</strong></a><br/>
+      <em>Another description for a different project, showcasing your skills and achievements.</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/demhatyldas/project-3" target="_blank"><strong>Project 3</strong></a><br/>
+      <em>Highlighting a significant project, possibly including your role and the impact it had.</em>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h3 align="center">🚀 Let's Collaborate</h3>
+<h3 align="center">Let's Collaborate</h3>
 <p align="center">
-  If you're interested in working together, feel free to reach out or check out my repositories to see what I'm currently working on. Collaboration is key to growth, and I'm always open to new challenges!
+  I'm always open to new opportunities and collaborations. If you're interested in working together or want to discuss a project, don't hesitate to reach out!
 </p>
