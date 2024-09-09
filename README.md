@@ -8,17 +8,17 @@
 - 🔭 I’m currently working on **.NET Core / MVC5 / APIs**
 - 🌍 Based in **Turkey**
 - 📫 Reach me at **demhatyldas@gmail.com**
-- 👀 Check out my [repositories](#) to see what I'm working on
+- 👀 Check out my [repositories](https://github.com/DemhatYoldas?tab=repositories) to see what I'm working on
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/demhat-yolda%C5%9F-9a8804204/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" width="50" />
   </a>
   <a href="mailto:demhatyldas@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="40" width="50" />
   </a>
 </p>
 
