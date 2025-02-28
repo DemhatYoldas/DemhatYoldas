@@ -1,42 +1,70 @@
-<h1 align="center">Hi everyone 👋, my name is Demhat</h1>
-<h3 align="center">Jr. .NET Developer</h3>
+ <h1 align="center">Hey there! 👋 I'm Demhat</h1>
+ <h3 align="center">🚀 Junior .NET Developer | Passionate about Building Scalable Applications</h3>
 
-<p align="center">
-  I'm a passionate developer specializing in .NET technologies, with a focus on building robust and scalable applications.
-</p>
-
-- 🔭 I’m currently working on **.NET Core / MVC5 / APIs**
-- 🌍 Based in **Turkey**
-- 📫 Reach me at **demhatyldas@gmail.com**
-- 👀 Check out my [repositories](https://github.com/DemhatYoldas?tab=repositories) to see what I'm working on
+ <p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A41D&center=true&width=600&lines=Jr.+.NET+Developer;Building+Scalable+and+Robust+Apps;Passionate+about+Coding+and+Innovation;Open+to+Exciting+Opportunities!" alt="Typing SVG" />
+ </p>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### 🛠 About Me
+- 🔭 Currently working on **.NET Core / MVC5 / APIs**
+- 🌍 Based in **Turkey**
+- 📬 Reach me at **demhatyldas@gmail.com**
+- 👀 Check out my [repositories](https://github.com/DemhatYoldas?tab=repositories) to see my projects!
+
+---
+
+### 📲 Connect With Me:
+<p align="center">
   <a href="https://www.linkedin.com/in/demhat-yolda%C5%9F-9a8804204/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" width="50" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:demhatyldas@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="40" width="50" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
+---
+
+### 🛠 Technologies & Tools:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
 </p>
+
+---
+
+### 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DemhatYoldas&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DemhatYoldas&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DemhatYoldas&theme=darkhub&no-frame=true&margin-w=5" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🐍 Contribution Graph
+<p align="center">
+  <img src="https://github.com/DemhatYoldas/DemhatYoldas/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+### 📈 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemhatYoldas&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+🔗 **Let's build something great together!** 🚀
