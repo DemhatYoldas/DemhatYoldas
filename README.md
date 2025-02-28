@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Junior .NET Developer | Passionate about Building Scalable Applications</h3>
 
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A41D&center=true&width=600&lines=Jr.+.NET+Developer;Building+Scalable+and+Robust+Apps;Passionate+about+Coding+and+Innovation;Open+to+Exciting+Opportunities!" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A41D&center=true&width=600&lines=Jr.+.NET+Developer;" alt="Typing SVG" />
 </p>
 
 ---
@@ -24,16 +24,10 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
----
 
-### 🐍 GitHub Contribution Snake Animation:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DemhatYoldas/DemhatYoldas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DemhatYoldas/DemhatYoldas/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DemhatYoldas/DemhatYoldas/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
+
 
 ### 🛠 Technologies & Tools:
 <p align="center">
