@@ -1,39 +1,84 @@
-<h1 align="center">Hey there! 👋 I'm Demhat</h1>
-<h3 align="center">🚀 Junior .NET Developer | Passionate about Building Scalable Applications</h3>
+<h1 align="center">Demhat Yoldaş</h1>
 
-<p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A41D&center=true&width=600&lines=Jr.+.NET+Developer;" alt="Typing SVG" />
+<h3 align="center">
+Backend Developer (.NET) | ASP.NET Core • REST APIs • MSSQL • Clean Architecture
+</h3>
+
+---
+
+## About Me
+
+I'm a backend-focused developer passionate about building scalable and maintainable web applications using the .NET ecosystem.
+
+I have experience developing real-world projects with ASP.NET Core, MVC, Entity Framework, and MSSQL.  
+Currently improving myself in backend architecture, API development, authentication systems, and software design principles.
+
+- Developing projects with ASP.NET Core & MVC
+- Building RESTful APIs
+- Working with MSSQL & Entity Framework Core
+- Learning Clean Architecture & advanced backend concepts
+- Interested in scalable software systems
+
+---
+
+## Tech Stack
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
+
 </p>
 
 ---
 
-### 🛠 About Me
-- 🔭 Currently working on **.NET Core / MVC5 / APIs**
-- 🌍 Based in **Turkey**
-- 📬 Reach me at **demhatyldas@gmail.com**
-- 👀 Check out my [repositories](https://github.com/DemhatYoldas?tab=repositories) to see my projects!
+## Featured Projects
+
+### Geyik Lounge
+Corporate cafe & restaurant website developed with ASP.NET MVC, Entity Framework, and MSSQL.
+
+### RotaLease Group
+Car rental platform project focused on responsive design, admin management, and database architecture.
+
+### Personal Backend Projects
+Projects focused on API development, layered architecture, authentication systems, and database management.
 
 ---
 
-### 📲 Connect With Me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/demhat-yolda%C5%9F-9a8804204/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:demhatyldas@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+## Currently Learning
+
+- Clean Architecture
+- Advanced ASP.NET Core
+- Authentication & Authorization
+- API Security
+- Docker Fundamentals
+
+---
+
+## Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/demhatyoldas/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:demhatyldas@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
-
 ---
 
+## GitHub Stats
 
-### 🛠 Technologies & Tools:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DemhatYoldas&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemhatYoldas&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
