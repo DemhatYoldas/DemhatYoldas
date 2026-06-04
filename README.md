@@ -1,84 +1,114 @@
-<h1 align="center">Demhat Yoldaş</h1>
+<div align="center">
 
-<h3 align="center">
-Backend Developer (.NET) | ASP.NET Core • REST APIs • MSSQL • Clean Architecture
-</h3>
+# Demhat Yoldaş
 
----
+### 🖥️ Backend Developer · .NET Ekosistemi
 
-## About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/demhatyoldas/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:demhatyldas@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://juniorcodecraft.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DemhatYoldas)
 
-I'm a backend-focused developer passionate about building scalable and maintainable web applications using the .NET ecosystem.
-
-I have experience developing real-world projects with ASP.NET Core, MVC, Entity Framework, and MSSQL.  
-Currently improving myself in backend architecture, API development, authentication systems, and software design principles.
-
-- Developing projects with ASP.NET Core & MVC
-- Building RESTful APIs
-- Working with MSSQL & Entity Framework Core
-- Learning Clean Architecture & advanced backend concepts
-- Interested in scalable software systems
+</div>
 
 ---
 
-## Tech Stack
+## 👨‍💻 Hakkımda
 
-<p align="left">
+Backend geliştirmeye odaklanan, **.NET ekosistemi** üzerine çalışan bir yazılım geliştiricisiyim. Ölçeklenebilir, sürdürülebilir ve temiz kod prensipleriyle web uygulamaları geliştirme konusunda deneyim sahibiyim.
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
-
-</p>
+- 🏗️ **ASP.NET Core MVC** ile kurumsal web uygulamaları geliştiriyorum
+- 🔌 **RESTful API** tasarımı ve entegrasyonu üzerine çalışıyorum
+- 🗄️ **MSSQL & Entity Framework Core** ile veritabanı yönetimi yapıyorum
+- 📐 **Clean Architecture** ve **katmanlı mimari** prensiplerine ilgi duyuyorum
+- 🔐 Kimlik doğrulama, yetkilendirme ve API güvenliği konularını öğreniyorum
 
 ---
 
-## Featured Projects
+## 🛠️ Teknoloji Stack'i
 
-### Geyik Lounge
-Corporate cafe & restaurant website developed with ASP.NET MVC, Entity Framework, and MSSQL.
+### Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### RotaLease Group
-Car rental platform project focused on responsive design, admin management, and database architecture.
+### Veritabanı
+![MSSQL](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Personal Backend Projects
-Projects focused on API development, layered architecture, authentication systems, and database management.
-
----
-
-## Currently Learning
-
-- Clean Architecture
-- Advanced ASP.NET Core
-- Authentication & Authorization
-- API Security
-- Docker Fundamentals
+### Frontend & Araçlar
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## Connect With Me
+## 🚀 Öne Çıkan Projeler
 
-<p align="left">
-<a href="https://www.linkedin.com/in/demhatyoldas/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### 🍽️ [Geyik Lounge](https://github.com/DemhatYoldas/GeyikLoung)
+> Kurumsal kafe & restoran web sitesi
 
-<a href="mailto:demhatyldas@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+**Kullanılan Teknolojiler:** ASP.NET MVC · Entity Framework · MSSQL · HTML/CSS
+
+Gerçek bir işletme için geliştirdiğim, yönetim paneli ve veritabanı entegrasyonu içeren tam kapsamlı web uygulaması.
 
 ---
 
-## GitHub Stats
+### 🚗 RotaLease Group
+> Araç kiralama platformu
 
-<p align="center">
+**Kullanılan Teknolojiler:** ASP.NET Core · MSSQL · REST API · Admin Panel
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DemhatYoldas&show_icons=true&theme=tokyonight&hide_border=true"/>
+Responsive tasarım, admin yönetimi ve veritabanı mimarisine odaklanan araç kiralama sistemi.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemhatYoldas&layout=compact&theme=tokyonight&hide_border=true"/>
+---
 
-</p>
+### 📚 [MVC Kütüphane](https://github.com/DemhatYoldas/MvcKutuphane)
+> Kütüphane yönetim sistemi
+
+**Kullanılan Teknolojiler:** ASP.NET MVC · Entity Framework · MSSQL
+
+CRUD işlemleri, kullanıcı yönetimi ve raporlama özelliklerine sahip kütüphane otomasyon sistemi.
+
+---
+
+## 📈 GitHub İstatistikleri
+
+<div align="center">
+
+![Demhat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DemhatYoldas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DemhatYoldas&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Şu An Öğreniyorum
+
+```
+✅ Clean Architecture & Domain-Driven Design (DDD)
+✅ Advanced ASP.NET Core (Middleware, Filters, Dependency Injection)
+✅ JWT Authentication & OAuth 2.0
+✅ Docker & Container Teknolojileri
+✅ Redis & Caching Stratejileri
+```
+
+---
+
+## 💼 Kariyer Hedefi
+
+Backend geliştirme alanında kendimi sürekli geliştirerek, gerçek dünya problemlerini çözen, ölçeklenebilir ve güvenilir sistemler inşa etmek istiyorum. Öğrenmeye açık, takım çalışmasına yatkın ve kaliteli yazılım üretimine önem veren bir geliştirici olarak .NET ekosisteminde deneyimimi büyütmeyi hedefliyorum.
+
+---
+
+<div align="center">
+
+**📬 İletişim için:** [demhatyldas@gmail.com](mailto:demhatyldas@gmail.com) · [LinkedIn](https://www.linkedin.com/in/demhatyoldas/)
+
+*"Temiz kod, iyi mimari ve sürekli öğrenme."*
+
+</div>
