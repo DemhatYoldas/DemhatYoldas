@@ -6,7 +6,6 @@
 
 ### Backend Developer | .NET Ecosystem
 
-<img src="https://komarev.com/ghpvc/?username=DemhatYoldas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 <br />
 
@@ -15,9 +14,6 @@
 </a>
 <a href="mailto:demhatyldas@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-demhatyldas%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://juniorcodecraft.com/">
-  <img src="https://img.shields.io/badge/Portfolio-juniorcodecraft.com-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://github.com/DemhatYoldas">
   <img src="https://img.shields.io/badge/GitHub-DemhatYoldas-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -37,6 +33,11 @@ I enjoy building structured web applications, designing database-backed systems,
 - 🗄️ Comfortable working with relational databases like **MSSQL** and **PostgreSQL**
 - 🚀 Open to junior / entry-level backend developer opportunities
 - 📚 Currently improving my knowledge in authentication, architecture, caching, and containerization
+- 💡 Quote / Motto<div align="center">
+
+> “Clean code, good architecture, continuous learning.”
+
+</div>
 
 ---
 
@@ -119,8 +120,6 @@ I enjoy building structured web applications, designing database-backed systems,
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DemhatYoldas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemhatYoldas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br />
 
@@ -128,7 +127,7 @@ I enjoy building structured web applications, designing database-backed systems,
 
 <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=DemhatYoldas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophy" />
+
 
 </div>
 
@@ -147,15 +146,5 @@ I enjoy building structured web applications, designing database-backed systems,
 <a href="https://juniorcodecraft.com/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-
-</div>
-
----
-
-## 💡 Quote / Motto
-
-<div align="center">
-
-> “Clean code, good architecture, continuous learning.”
 
 </div>
